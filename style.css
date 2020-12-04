@@ -265,7 +265,10 @@ p {
     display: none;
 }
 
+
+.live_body {
+    max-width: 800px;
 }
 
 
-
+}
