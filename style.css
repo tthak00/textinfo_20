@@ -214,9 +214,9 @@ a:hover .nav_link{
 }
  */
 
+@media  (min-width:768px) {
 
-
- @media (min-width: 769px){
+ @media (min-width: 1024px){
 .section { 
     padding: 3rem 170px; 
 }
