@@ -90,7 +90,7 @@ h2[class$="title"] {
 
 
 .top_title_1 {
-    font-size: 30px;
+    font-size: 40px;
     font-weight: 200px;
     line-height: 110%;
     margin-top: 10px;
@@ -224,6 +224,10 @@ p {
     width: 100%;
 }
 
+.top_title_1 br {
+	display:none;
+}
+	 
 .about_body {
     max-width: 800px;
 }
