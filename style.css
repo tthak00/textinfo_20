@@ -257,11 +257,14 @@ p {
 
 .top_image {
     float: left;
-    width: 100%;
-    height: 100%;
+	overflow: hidden;
 }
 
 .top_image img {
+	width: 700px;
+    height: 700px;
+    object-fit: cover;
+}
 	
 }
 
