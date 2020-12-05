@@ -102,8 +102,8 @@ h2[class$="title"] {
 
 .top_image img {
 	max-width: 100%;
-    width: 350px;
-    height: 350px;
+    width: 250px;
+    height: 250px;
     object-fit: cover;
 }
 
