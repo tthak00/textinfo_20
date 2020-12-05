@@ -105,12 +105,12 @@ h2[class$="title"] {
 
 .top_theme {
     font-size: 30px;
-    margin-top: 100px;
+    margin-top: 40px;
     margin-left: 180px;
 }
 
 .top_detail {
-    margin-top: 40px;
+    margin-top: 80px;
 }
 
 .top_nitizi {
@@ -128,7 +128,7 @@ h2[class$="title"] {
 /* これよりナビ */
 
 .header {
-	margin-bottom: 50px;
+	margin-bottom: 100px;
 }
 
 .nav ul {
