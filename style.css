@@ -106,7 +106,7 @@ h2[class$="title"] {
 .top_theme {
     font-size: 30px;
     margin-top: 40px;
-    margin-left: 160px;
+    margin-left: 130px;
 }
 
 .top_detail {
@@ -262,7 +262,7 @@ p {
 }
 
 .top_image img {
-	max-width: 100%;
+	
 }
 
 	 
@@ -275,8 +275,6 @@ p {
     line-height: 28px;
     font-size: 16px;
     padding: 0 10px 7px;
-    position: relative;
-    left: -10px;
 }
 
 .works_body {
