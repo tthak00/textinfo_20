@@ -257,14 +257,15 @@ p {
 
 .top_image {
     float: left;
-	overflow: hidden;
+	width: 700px;
+    height: 700px;
 }
 
-.top_image img {
+/* .top_image img {
 	width: 700px;
     height: 700px;
     object-fit: cover;
-}
+} */
 	
 }
 
