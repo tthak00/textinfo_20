@@ -101,10 +101,10 @@ h2[class$="title"] {
 }
 
 .top_image img {
-    width: 100%;
-    height: auto;
-    transform: scale(1.6,1.6)
-
+	max-width: 100%;
+    width: 596px;
+    height: 596px;
+    object-fit: cover;
 }
 
 .top_theme {
