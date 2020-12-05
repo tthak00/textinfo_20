@@ -102,8 +102,8 @@ h2[class$="title"] {
 
 .top_image img {
 	max-width: 100%;
-    width: 70px;
-    height: 70px;
+    width: 650px;
+    height: 650px;
     object-fit: cover;
 }
 
@@ -231,6 +231,13 @@ p {
 .top_title_1 br {
 	display: none;
 }
+
+.top_image {
+    float: left;
+    width: 700px;
+    height: 700px;
+}
+	 
 	 
 .about_body {
     max-width: 800px;
