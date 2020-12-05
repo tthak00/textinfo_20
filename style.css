@@ -127,9 +127,6 @@ h2[class$="title"] {
 
 /* これよりナビ */
 
-.header {
-	margin-bottom: 100px;
-}
 
 .nav ul {
     display: flex;
@@ -145,8 +142,7 @@ h2[class$="title"] {
 }
 
 .nav {
-    margin-top: 200px;
-    /* text-align: right; */
+    margin-top: 170px;
 }
 
 
