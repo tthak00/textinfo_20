@@ -301,13 +301,28 @@ p {
 	overflow: hidden;
 }
 
+	 
 /* .top_image img {
 	width: 700px;
     height: 700px;
     object-fit: cover;
 } */
 	
+.nav ul {
+    display: flex;
+    font-size: 26px;
 }
+
+.nav_link {
+    display: inline-block;
+    margin-top: 30px;
+}
+
+.nav {
+    margin-top: 170px;
+}
+
+
 
 	 
 .about_body {
