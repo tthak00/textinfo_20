@@ -297,8 +297,8 @@ p {
 
 .top_image {
     float: left;
-	width: 700px;
-    height: 700px;
+	display: inline-block;
+	overflow: hidden;
 }
 
 /* .top_image img {
