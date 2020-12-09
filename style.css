@@ -131,6 +131,11 @@ h2[class$="title"] {
 .top_theme_3::after {
     clear: both;
 }
+
+.top_theme::after {
+    clear: both;
+}
+
 .theme_sav {
     font-size: 12px;
     font-weight: 300;
