@@ -315,15 +315,14 @@ p {
 	object-fit: cover;
 }
 
+.top_theme::after {
+    clear: both;
+}
+
 	 
-/* .top_image img {
-	width: 700px;
-    height: 700px;
-    object-fit: cover;
-} */
+
 	
 .nav ul {
-    display: flex;
     font-size: 26px;
 }
 
