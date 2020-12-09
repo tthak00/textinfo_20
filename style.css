@@ -103,11 +103,49 @@ h2[class$="title"] {
     object-fit: cover;
 }
 
+
+
 .top_theme {
-    font-size: 30px;
+	font-size: 30px;
     margin-top: 40px;
-    margin-left: 130px;
+    margin-left: 100px;
+    max-width: 300px;
+    display: inline-block;
+    overflow: hidden;
 }
+
+.top_theme_1 ,.top_theme_2 ,.top_theme_3 {
+    display: inline-block;
+}
+
+.top_theme_1　 {
+    float: left;
+}
+
+.top_theme_3 {
+    margin-left: 20px;
+}
+
+
+.top_theme_3::after {
+    clear: both;
+}
+.theme_sav {
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 110%;
+}
+
+.theme_main {
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.theme_main_0 {
+    font-size: 30px;
+    display: inline-block;
+}
+
 
 .top_detail {
     margin-top: 80px;
