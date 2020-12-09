@@ -175,7 +175,7 @@ h2[class$="title"] {
 }
 
 .nav_link {
-    
+    display: inline-block;
     margin-top: 30px;
 }
 
