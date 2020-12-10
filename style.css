@@ -155,16 +155,15 @@ h2[class$="title"] {
 
 .top_detail {
     margin-top: 80px;
+	display: inline-block;
 }
 
 .top_nitizi {
     font-size: 26px;
-	display: inline-block;
 }
 
 .top_basyo {
     font-size: 20px; 
-	display: inline-block;
 	margin-top: 10px;
 }
 
