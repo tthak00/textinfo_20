@@ -306,11 +306,11 @@ p {
 	
 
 .top_image {
-    float: left;
+	overflow: hidden;
+   
 	width: 100%;
     height: 100%;
 	display: block;
-	overflow: hidden;
 }
 
 .top_image img {
@@ -323,6 +323,11 @@ p {
 .top_text_2　{
 	overflow: hidden;
 	display: inline-block;
+}
+
+	 
+.top_theme_1　 {
+    float: left;
 }
 	 
 .top_theme::after {
