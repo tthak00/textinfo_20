@@ -332,7 +332,9 @@ p {
     clear: both;
 }
 
-	 
+.top_nitizi br{
+    display: none;
+} 
 
 	
 .nav ul {
