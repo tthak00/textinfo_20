@@ -320,6 +320,9 @@ p {
 	display: inline-block;
 }
 
+.top_theme {
+	margin-top: 100px;
+}
 	 
 .top_theme_1　 {
     float: left;
