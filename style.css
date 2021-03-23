@@ -87,7 +87,7 @@ h2[class$="title"] {
 .top_title_2 {
     font-size: 16px;
     line-height: 110%;
-	magin-top: 24px;
+	margin-top: 24px;
 }
 
 .top_image {
@@ -261,7 +261,7 @@ a:hover .nav_link{
 	
 .live_detail {
     margin-top: 38px;
-	padding_bottom: 38px;
+	padding-bottom: 38px;
 }
 
 
@@ -279,6 +279,51 @@ a:hover .nav_link{
   width: 100%;
   height: 100%;
 }
+
+
+
+
+/* これよりcomments */
+
+.comments_title_1 {
+    font-size: 46px;
+    font-weight: 200px;
+    line-height: 110%;
+    margin-top: 10px;
+}
+
+.comments_title_2 {
+    font-size: 16px;
+    line-height: 110%;
+	margin-top: 24px;
+}
+
+.column_title {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 110%;
+    margin-top: 70px;
+}
+
+.comments_body_2 {
+    margin-bottom: 160px;
+}
+
+.comments_image {
+    margin-top: 40px;
+}
+
+.image_ele {
+    margin-bottom: 15px;
+}
+
+.comments_detail {
+    margin-top: 32px;
+    font-size: 18px;
+    line-height: 180%;
+	text-align: justify;
+}
+
 
 
 /* @media screen and (min-width: 1087px) and (min-width: 769px){
@@ -409,4 +454,46 @@ p {
     max-width: 800px;
 }
 
+}
+
+
+.comments_body_2 {
+    max-width: 800px;
+}
+
+
+.column_teacher_1,.column_teacher_2 {
+    width: 400px;
+    padding-right: 60px;
+}
+
+
+.column_teacher_1 {
+    float: left;
+}
+
+.column_teacher_1,.column_teacher_2 {
+    overflow: auto;
+}
+
+.column_teacher_2::after {
+    clear: both;
+}
+
+.image_ele {
+    max-width: 550px;
+    height: auto;
+    display: block;
+    float: left;
+    margin-right: 30px;
+    padding-bottom: 15px;
+}
+
+.comments_image {
+    overflow: auto;
+}
+
+
+.comments_image::after {
+    clear: both;
 }
